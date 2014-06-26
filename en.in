@@ -1,0 +1,222 @@
+D	sing	a
+D	sing	the
+D	sing	that
+D	sing	this
+D	plur	his
+D	plur	her
+D	sing	their
+D	sing	one
+D	sing	his
+D	sing	her
+D	plur	their
+D	plur	many
+D	plur	some
+D	plur	both
+D	plur	several
+N	engineer	engineers
+N	boxer	boxers
+N	mouse	mice
+N	dog	dogs
+N	boy	boys
+N	child	children
+N	teacher	teachers
+N	sheriff	sheriffs
+N	girl	girls
+N	fireman	firemen
+N	ghost	ghosts
+N	bird	birds
+N	pig	pigs
+N	cow	cows
+N	sheep	sheep
+N	lamb	lambs
+N	man	men
+N	woman	women
+N	cat	cats
+N	horse	horses
+N	president	presidents
+N	boss	bosses
+N	prisoner	prisoners
+N	computer	computers
+N	brain	brains
+N	cashier	cashiers
+N	professor	professors
+N	student	students
+N	prophet	prophets
+N	priest	priests
+N	Norwegian	Norwegians
+N	manatee	manatees
+N	unicorn	unicorns
+N	dictator	dictators
+N	god	gods
+N	monkey	monkeys
+N	bike	bikes
+N	monk	monks
+N	lawyer	lawyers
+N	fish	fish
+N	whale	whales
+N	seal	seals
+N	lion	lions
+N	tiger	tigers
+N	fairy	fairies
+N	house	houses
+N	car	cars
+N	coin	coins
+N	hunter	hunters
+N	bat	bats
+N	snake	snakes
+N	silhouette silhouettes
+N	philosopher	philosophers
+N	king	kings
+N	queen	queens
+N	prince	princes
+N	princess	princesses
+N	jester	jesters
+N	servant	servants
+N	orphan	orphans
+N	pirate	pirates
+N	frog	frogs
+N	wizard	wizards
+N	witch	witches
+N	chauffeur chauffeurs
+N	politician	politicians
+N	star	stars
+N	singer	singers
+N	boat	boats
+N	cloud	clouds
+N	killer	killers
+N	detective	detectives
+N	policeman	policemen
+N	cyclist	cyclists
+N	crowd	crowds
+N	crow	crows
+N	raven	ravens
+N	devil	devils
+N	hawk	hawks
+N	eagle	eagles
+N	bear	bears
+N	friend	friends
+N	teenager	teenagers
+V	L	bike	bikes	biked	biked	biking
+V	L	go	goes	went	gone	going
+V	L	travel	travels	travelled	travelled	travelling
+V	L	fly	flies	flew	flown	flying
+V	L	walk	walks	walked	walked	walking
+V	L	run	runs	ran	run	running
+V	L	ride	rides	rode	ridden	riding
+V	N	fight	fights	fought	fought	fighting
+V	N	watch	watches	watched	watched	watching
+V	N	bite	bites	bit	bitten	biting
+V	N	love	loves	loved	loved	loving
+V	L	drive	drives	drove	driven	driving
+V	N	kiss	kisses	kissed	kissed	kissing
+V	N	hug	hugs	hugged	hugged	hugging
+V	N	steal	steals	stole	stolen	stealing
+V	N	rescue	rescues	rescued	rescued	rescuing
+V	N	complement	complements	complemented	complemented	complementing
+V	N	commend	commends	commended	commended	commending
+V	N	deride	derides	derided	derided	deriding
+V	N	humiliate	humiliates	humiliated	humiliated	humiliating
+V	N	shoot	shoots	shot	shot	shooting
+V	A	become	becomes	became	become	becoming
+V	N	greet	greets	greeted	greeted	greeting
+V	N	miss	misses	missed	missed	missing
+V	N	scold	scolds	scolded	scolded	scolding
+V	N	create	creates	created	created	creating
+V	N	see	sees	saw	seen	seeing
+V	N	know	knows	knew	known	knowing
+V	N	meet	meets	met	met	meeting
+V	A	turn	turns	turned	turned	turning
+V	A	look	looks	looked	looked	looking
+V	A	appear	appears	appeared	appeared	appearing
+V	A	seem	seems	seemed	seemed	seeming
+V	A	sound	sounds	sounded	sounded	sounding
+V	A	grow	grows	grew	grown	growing
+V	A	remain	remains	remained	remained	remaining
+V	C	think	thinks	thought	thought	thinking
+V	C	believe	believes	believed	believed	believing
+V	C	hope	hopes	hoped	hoped	hoping
+V	C	know	knows	knew	known	knowing
+V	C	imagine	imagines	imagined	imagined	imagining
+V	C	expect	expects	expected	expected	expecting
+V	0	die	dies	died	died	dying
+V	0	cry	cries	cried	cried	crying
+V	0	laugh	laughs	laughed	laughed	laughing
+V	0	frown	frowns	frowned	frowned	frowning
+V	N	want	wants	wanted	wanted	wanting
+V	0	scream	screams	screamed	screamed	screaming
+M	can
+M	could
+M	may
+M	shall
+M	should
+M	might
+M	would
+M	must
+M	will
+A	tired
+A	sleepy
+A	quick
+A	dead
+A	living
+A	terrible
+A	ugly
+A	beautiful
+A	red
+A	black
+A	brown
+A	green	
+A	blue
+A	purple
+A	yellow
+A	white
+A	young
+A	stunning
+A	Norwegian
+A	hairy
+A	smelly
+A	frustrated
+A	happy
+A	sad
+A	melancholy
+A	nonplussed
+A	confused
+A	cheerful
+A	tall
+A	short
+A	huge
+A	big
+A	small
+A	tiny
+A	fat
+A	thin
+A	gaunt
+A	colorful
+A	heroic
+A	powerful
+A	meek
+A	powerless
+A	loud
+A	boisterous
+A	quiet
+A	contemplative
+A	stolid
+A	flaxen
+A	reflective
+A	prickly
+A	unsure
+A	confident
+A	doubtful
+A	skeptical
+A	royal
+A	presidential
+A	androgynous
+A	long
+A	deep
+A	busy
+A	bright
+A	dull
+A	square
+A	hot
+A	cold
+A	round
+A	blond

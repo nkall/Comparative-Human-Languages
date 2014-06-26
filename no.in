@@ -1,0 +1,98 @@
+D	neut	et
+D	masc	en
+D	plur	to
+D	neut	dette
+D	masc	denne
+D	plur	mange
+D	plur	noen
+D	plur	flere
+D	masc	min
+D	neut	mitt
+D	plur	mine
+D	masc	din
+D	neut	ditt
+D	plur	dine
+D	masc	hennes
+D	neut	hennes
+D	plur	hennes
+D	masc	hans
+D	neut	hans
+D	plur	hans
+D	plur	disse
+N	masc	hund	hunden	hunder	hundene
+N	neut	fjell	fjellet	fjell	fjellene
+N	neut	skip	skipet	skip	skipene
+N	masc	skog	skogen	skoger	skogene
+N	masc	spillkonsoll	spillkonsollen	spillkonsoller	spillkonsollene
+N	masc	bok	boken	b¿ker	b¿kene
+N	masc	krone	kronen	kroner	kronene
+N	masc	trŒler	trŒleren	trŒlere	trŒlerne
+N	masc	kildekode	kildekoden	kildekoder	kildekodene
+N	neut	speil	speilet	speil	speilene
+N	neut	barn	barnet	barn	barnene
+N	masc	nordmann	nordmannen	nordmenn	nordmennene
+N	masc	americaner	americaneren	amerikanere	amerikanerne
+N	neut	eple	eplet	epler	eplene
+N	masc	str¿m	str¿mmen	str¿mme	str¿mmene
+N	masc	vind	vinden	vinder	vindene
+N	masc	buss	bussen	busser	bussene
+N	masc	sjŒf¿r	sjŒf¿ren	sjŒf¿rer sjŒf¿rene
+N	masc	bil	bilen	biler	bilene
+N	masc	storm	stormen	stormer	stormene
+N	masc	pus	pusen	puser	pusene
+N	masc	fugl	fuglen	fugler	fuglene
+N	masc	katt	katten	katter	kattene
+N	masc	by	byen	byer	byene
+N	neut	land	landet	land	landene
+N	masc	venn	vennen	venner	vennene
+N	masc	mann	mannen	menn	mennene
+N	masc	kvinne	kvinnen	kvinner	kvinnene
+N	masc	kjendis	kjendiser	kjendisen	kjendisene
+N	neut	dyr	dyret	dyr	dyrene
+V	0	sove	sover	sov	sovet
+V	0	grŒte	grŒter	grŒt	grŒtt
+V	C	si	sier	sa	sagt
+V	C	tenke	tenker	tenkte	tenkt
+V	C	mene	mener	mente	ment
+V	C	synes	synes	syntes	syntes
+V	C	tro	tror	trodde	trod
+V	C	vite	vet	visste	visst
+V	N	dele	deler	delte	delt
+V	0	dra	drar	drog	dradd
+V	0	arbeide	arbeider	arbeidet	arbeidet
+V	N	drikke	drikker	drakk	drukket
+V	0	d¿	d¿r	d¿de	d¿dd
+V	N	eie	eier	eide	eid
+V	N	finne	finner	fant	funnet
+V	N	glemme	glemmer	glemte	glemt
+V	N	ha	har	hadde	hatt
+V	N	hjelpe	hjelper	hjalp	hjulpet
+V	N	huske	husker	husket	husket
+V	0	jobbe	jobber	jobbet	jobbet
+V	N	kjenne	kjenner	kjente	kjent
+V	N	kj¿pe	kj¿per	kj¿pte	kj¿pt
+V	N	koste	koster	kostet	kostet
+V	0	ligge	ligger	lŒ	ligget
+V	N	like	liker	likte	likt
+V	N	ta	tar	tok	tatt
+V	N	drepe	dreper	drepte	drept
+V	0	d¿	d¿r	d¿de	d¿dd
+V	L	gŒ	gŒr	gikk	gŒtt
+V	N	fŒ	fŒr	fikk	fŒtt
+V	L	sykle	sykler	syklet	syklet
+V	L	kj¿re	kj¿rer	kj¿rte	kj¿rt
+V	L	l¿pe	l¿per	l¿p	l¿pt
+V	L	sv¿mme	sv¿mmer	sv¿mmede	sv¿mmet
+V	L	reise	reiser	reiste	reist
+V	C	forstŒ	forstŒr	forstod	forstŒtt
+V	C	sj¿nne	sj¿nner	sj¿nte	sj¿nt
+M	skal
+M	skulle
+M	vil
+M	ville
+M	mŒ
+M	mŒtte
+M	b¿r
+M	burde
+M	kan
+M	kunne
